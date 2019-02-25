@@ -1,0 +1,6 @@
+public enum TriangleType{
+	EQUILATERAL,
+	ISOSCELES,
+	SCALENE,
+	NO_TRIANGLE;
+}
