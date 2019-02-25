@@ -4,9 +4,9 @@ Problem Statement:
 Write a program that will determine the type of a triangle. It should take the lengths of the triangle's three sides as input, and return whether the triangle is equilateral, isosceles or scalene.
 
 Brief Description of class files:
-i) TriangleTask.java : The main class which accepts input. 
-ii) Triangle.java : Java class which validates the input and determines the type of triangle.
-iii) TriangleType.java : Class that contains an enum object containing the different triangle types. 
+i) TriangleTask.java : The main class which accepts input. <br />
+ii) Triangle.java : Java class which validates the input and determines the type of triangle. <br />
+iii) TriangleType.java : Class that contains an enum object containing the different triangle types. <br />
 iv) TestTriangle.java : Java class that is used for unit testing using JUnit.
 
 # How to compile and run
