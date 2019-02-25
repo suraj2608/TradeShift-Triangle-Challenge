@@ -14,14 +14,14 @@ I used Eclipse to run the main Java class (TriangleTask.java).
 However, if you are using command line, please follow the steps given below:
 
 i) Compile with
-'''
+```
 javac TriangleTask.java Triangle.java TriangleType.java
-'''
+```
 
 ii) Run the main class with
-'''
+```
 java TriangleTask
-'''
+```
 
 # Unit Testing
 I added the junit-4.10.jar file as an external library on Eclipse and ran the test class (TestTriangle.java). 
@@ -29,11 +29,11 @@ This tutorial (https://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm)
 in Eclipse using JUnit.If you want to run the test class from the command line, please follow the steps given below:
 
 i) Compile with
-'''
+```
 javac TestTriangle.java
-'''
+```
 
 ii) Run the test class with
-'''
+```
 java org.junit.runner.JUnitCore TestTriangle
-'''
+```
